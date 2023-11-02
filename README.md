@@ -2,7 +2,8 @@
 # SERVERLESS IOT DATA PROCESSING
 
 # Serverless IoT Data Processing README
-# Data source:https://www.kaggle.com/code/naqibasri/e-coating-ultrafiltration-maintenance-dataset
+# Data source:
+(https://www.kaggle.com/code/naqibasri/e-coating-ultrafiltration-maintenance-dataset)
 
 
 
@@ -42,7 +43,7 @@ Other Dependencies: Check the package.json file for additional project-specific 
 Follow these steps to get the project up and running.
 
 # Installation
-Clone the repository:
+Clone the repository:https://github.com/csepavithra28/Cloud-Application-Development---Group-5.git
 
 # bash
 Copy code
